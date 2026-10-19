@@ -9,7 +9,7 @@
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
 #define AIO_USERNAME    ""
-#define AIO_KEY         ""
+//#define AIO_KEY         ""
 
 #define LED1_PIN 2   // GPIO 2 (LED integrado o externo)
 #define LED2_PIN 4   // GPIO 4 (Segundo LED)
