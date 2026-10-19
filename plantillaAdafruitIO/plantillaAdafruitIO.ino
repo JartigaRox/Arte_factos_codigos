@@ -23,8 +23,8 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID "S25 Ultra de Jeremias"
-#define WLAN_PASS "Sh@Sheg3"
+#define WLAN_SSID ""
+#define WLAN_PASS ""
 
 /************************* Adafruit.io Setup *********************************/
 
@@ -35,8 +35,8 @@
 
 // Adafruit IO Account Configuration
 // (to obtain these values, visit https://io.adafruit.com and click on Active Key)
-#define AIO_USERNAME "JartigaRox"
-#define AIO_KEY      "aio_Bkmf30BCz8q3YnnyUiG29BK8wvRl"
+#define AIO_USERNAME ""
+#define AIO_KEY      ""
 
 /************ Global State (you don't need to change this!) ******************/
 

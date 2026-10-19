@@ -3,13 +3,13 @@
 #include "Adafruit_MQTT_Client.h"
 
 // --- Credenciales Wi-Fi y Adafruit IO ---
-#define WLAN_SSID       "S25 Ultra de Jeremias"
-#define WLAN_PASS       "Sh@Sheg3"
+#define WLAN_SSID       ""
+#define WLAN_PASS       ""
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "JartigaRox"
-#define AIO_KEY         "aio_Bkmf30BCz8q3YnnyUiG29BK8wvRl"
+#define AIO_USERNAME    ""
+#define AIO_KEY         ""
 
 #define LED1_PIN 2   // GPIO 2 (LED integrado o externo)
 #define LED2_PIN 4   // GPIO 4 (Segundo LED)
